@@ -1,0 +1,6 @@
+.DS_Store
+.claude/
+
+# Gotowe rolki z tools/reel/record.sh: to nagrania, nie część gry.
+nowa-gra-rolka*.mp4
+rolka-surowa-*.mp4
